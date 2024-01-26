@@ -9,9 +9,11 @@ The dataset was taken from https://www.kaggle.com/datasets/mohammadkaiftahir/cof
 * Data transformation
 * XLOOKUP
 * INDEX and MATCH for simultaneous column and row mathing
-* Usage of Pivot Tables and Pivot Charts
+* Using Pivot Tables and Pivot Charts
 * Timeline and Slicers
-* Creation of an interactive coffee sales dashboard
+* Creating an interactive coffee sales dashboard
+* Creating a PowerPoint presentation 
 
-### Dashboard
-![img](./coffee-sales-dashboard.jpg)
+### Dashboards
+![img](./coffee-sales-dashboard.png)
+![img](./coffee-types-dashboard.png)
