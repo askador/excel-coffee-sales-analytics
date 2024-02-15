@@ -14,6 +14,8 @@ The dataset was taken from https://www.kaggle.com/datasets/mohammadkaiftahir/cof
 * Creating an interactive coffee sales dashboard
 * Creating a PowerPoint presentation 
 
+#### The presentation with insights and recommendations you can find in the [Coffee Orders Analysis.pdf](./Coffee%20Orders%20Analysis.pdf) file
+
 ### Dashboards
 ![img](./coffee-sales-dashboard.png)
 ![img](./coffee-types-dashboard.png)
